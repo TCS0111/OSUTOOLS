@@ -16,9 +16,9 @@ OSUTOOL is a utility designed for players of the popular rhythm game osu!. This 
 ## Requirements
 To run OSUTOOL, you need the following:
 - Python 3.6 or newer
-- Install `requirements.txt` using pip:
+- Install `customtkinter` using pip:
    ```bash
-   pip install requirements.txt
+   pip install customtkinter
 
 
 **Alternatively**, 
